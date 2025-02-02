@@ -18,3 +18,4 @@ Features Real-time Collaboration: Users can edit the document simultaneously, wi
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/b499778c-3463-4815-9f8a-e8d8977e0e5f)
